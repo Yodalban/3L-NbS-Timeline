@@ -1,0 +1,545 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="0jE-Ll4m6srflKSPTLwx">
+    <mxGraphModel grid="0" page="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--9" target="v6tH2ZV_qShP_pb42Ha1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;strokeColor=#808080;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1270" width="3240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;strokeColor=#808080;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="3240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80FF00;strokeColor=#808080;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="3240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#808080;fontColor=#000000;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="3240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#808080;fontColor=#000000;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="3240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FF0000,#660000);strokeColor=#808080;fontColor=#ffffff;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="3240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--1" value="2025 September" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="380" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--2" value="2025 October" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="558" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--3" value="2025 November" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="736" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--4" value="2025 December" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="914" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--5" value="Review Site Selection Criteria (evaluation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="330" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--6" value="Map Consent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="360" y="614" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--7" value="Constitute + Orient Evaluation panel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="450" y="554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--8" value="Pre Evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="450" y="614" width="100" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--9" value="&lt;div&gt;Future Scenario Workshop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="365" y="839" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--10" value="&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(26-27/01)&lt;/span&gt;&lt;div&gt;&lt;div&gt;Scoping the Study&lt;/div&gt;&lt;div&gt;W/ Selected sites&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="405" y="896" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--11" value="&lt;div&gt;Learn Sites Confirmation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="368" y="951" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--12" value="&lt;div&gt;Coproduction Process for 3L defined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1001" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--14" value="KDI&lt;div&gt;Coproduction Process for 3L defined&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="360" y="694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--15" value="Urban October 2025" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="593" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--16" value="Shortlisting site visits - Potential partners" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="590" y="554" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--17" value="29/10!&amp;nbsp;&lt;div&gt;TZ Election&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#66CC00;fontColor=#000000;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="650" y="840" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--18" target="v6tH2ZV_qShP_pb42Ha1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--18" value="&lt;div&gt;Future Scenarios Follow-up&lt;/div&gt;&lt;div&gt;-&amp;gt; Launch + Share City Profiles ... additional&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="558" y="1131" width="122" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--19" value="&lt;div&gt;Meeting with Community Officials&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1011" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--27" value="MEL (Learn) Finalise how it looks like" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="501" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--28" value="MEL (Learn) Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="621" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--30" value="Feedback to shortlisted Group&lt;div&gt;Raise principles Required&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="678" y="614" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--33" target="v6tH2ZV_qShP_pb42Ha1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--41" target="v6tH2ZV_qShP_pb42Ha1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--41" value="&lt;div&gt;Youth Groups - Lead&lt;/div&gt;&lt;div&gt;Actors Gathering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="856" y="1051" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--42" value="&lt;div&gt;Intro to Municipality + Ward&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="885" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--43" value="Preparation within Dar teams for Co-design activities (2 weeks)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="890" y="839" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--50" value="KDI Holiday Break" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCC00;fontColor=#000000;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1023.5" y="554" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--52" value="End of Year Break" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC0000;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;resizable=1;fillColor=#66CC00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="842.5" width="68" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--53" value="KDI&amp;nbsp;&lt;div&gt;CO-Design 2 starts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="635" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--54" value="2026 January" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--55" value="Sign Process engagmeent MOU&lt;div&gt;Reiterate pricniples + strategy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1073.5" y="555" width="106.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--56" value="1 FGDs Men Women" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="694" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--58" value="Co-design sessions with lead actors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="902.5" width="100" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--60" value="Co-Design&lt;div&gt;Exploring a learning hub + physical interventions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="902.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--61" target="v6tH2ZV_qShP_pb42Ha1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--61" value="Advocacy process&lt;div&gt;Youth group + TFUP + MTAA + Municpality + External stakeholders (continuous)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="970" width="115" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--66" value="Capacity Building w/ Youth groups leading the process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="931" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--67" target="EWNHcDQSINfYAr0s_SC--68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1372" y="820" />
+              <mxPoint x="1500" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--68" target="EWNHcDQSINfYAr0s_SC--67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1500" y="910" />
+              <mxPoint x="1372" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--68" value="Experimentation and prototyping of the initiative" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--76" value="2026 February" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--77" value="Developing Drawings Design iterations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--78" target="DnOsjMaOut4OD82y8h3n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--78" value="Africities&lt;div&gt;24&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--79" value="2026 March" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--80" value="Finalising implementation Designs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--81" value="IWD&lt;div&gt;2026&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1462" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--82" value="Rainy Season MAM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--83" value="&lt;div&gt;ICLEI organised webinar on 3L NbS&lt;/div&gt;&lt;div&gt;Listen findings - Approach to collective learning&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1462" y="1116" width="92" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--85" value="2026 April" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--86" value="KDI co-construction starts (5 months)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--87" value="Continue with non-structural interventions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--88" value="&lt;div&gt;Co-construction starts in Dar&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="840" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--89" value="&lt;u&gt;Intermediary MEL:&lt;/u&gt;&lt;div&gt;Checking the process&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1754" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--91" value="2026 May" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--92" value="2026 June" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1982" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--93" value="2026 July" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--94" value="2026 August" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--95" target="DnOsjMaOut4OD82y8h3n-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--95" value="WUF&lt;div&gt;May 2026&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1874" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--96" value="Climate COP" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--97" value="ENV Day June 5th" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2052" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--99" value="2026 September" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2516" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--100" target="v6tH2ZV_qShP_pb42Ha1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--100" value="End of Construction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--101" value="3L Annual Workshop 2026" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="2529.25" y="355.5" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--102" value="Launch of the physical interventions" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="2527.75" y="407.5" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--103" target="v6tH2ZV_qShP_pb42Ha1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--103" target="v6tH2ZV_qShP_pb42Ha1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--103" target="v6tH2ZV_qShP_pb42Ha1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--103" value="&lt;div&gt;LEAP Stakeholder engagement workshop&lt;/div&gt;&lt;div&gt;Scaling NBS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CCCC;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2529.25" y="1116" width="100" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--104" target="v6tH2ZV_qShP_pb42Ha1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--104" value="End of Construction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--105" value="&lt;u&gt;Final Stage MEL:&amp;nbsp;&lt;/u&gt;&lt;div&gt;Last assessment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--106" value="&lt;u&gt;MEL:&amp;nbsp;&lt;/u&gt;&lt;div&gt;After Construction&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2515.25" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--107" value="2026 October" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2694" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--108" value="2026 November" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2872" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--109" value="2026 December" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EWNHcDQSINfYAr0s_SC--110" target="v6tH2ZV_qShP_pb42Ha1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--110" value="&lt;u&gt;MEL (LEARN)&lt;/u&gt;&lt;div&gt;FInal Application&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-3" value="UNFCC&lt;div&gt;COP 30&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="760" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gpMhBomEG0gUjrsCUofy-5" target="DnOsjMaOut4OD82y8h3n-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-5" value="Nature in the City&lt;div&gt;Science Po Paris&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="935" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-6" value="Rise Africa" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2052" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-7" value="RC 21 Vienna" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-8" value="RGS Conference" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="2532.5" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gpMhBomEG0gUjrsCUofy-9" target="DnOsjMaOut4OD82y8h3n-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-9" value="AHRA: Conceptualising Environments" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#FFFFFF;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="250" width="93" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-10" value="&lt;b&gt;Conferences&amp;nbsp; &amp;amp; International&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(128, 128, 128), rgb(127, 127, 127));&quot;&gt;Days&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-11" value="Definiing Mel Framework" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="570.5" y="360" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-12" value="FGD Guides Together" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="593" y="415" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-13" value="Meet to setup/define the non structural interventionn" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="730" y="345" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-14" value="Define&lt;div&gt;Co-Design&lt;/div&gt;&lt;div&gt;Methods&lt;/div&gt;&lt;div&gt;Together&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="415" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-15" value="Writing&lt;div&gt;Worshops&lt;/div&gt;&lt;div&gt;LISTEN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="915" y="352.5" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-16" value="Tess&amp;nbsp;&lt;div&gt;Presents&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="352.5" width="49" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-17" value="NBS Ideas evolution&amp;nbsp;&lt;div&gt;(series)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="1412.5" y="360" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-18" value="Construction Approach&amp;nbsp;&lt;div&gt;+ gender&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="415" width="95" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-21" value="&lt;b&gt;Key Milestones All teams&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;strokeColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-22" value="Autorisation to + Start site analysis + ecology + MEZ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="810" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-34" value="&lt;b&gt;KDI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="607" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-35" value="&lt;b&gt;CCI / Ardhi&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="899" width="90" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-39" value="&lt;b&gt;ICLEI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1145.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpMhBomEG0gUjrsCUofy-40" value="&lt;b&gt;MEL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1295" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#36393d;opacity=50;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1390" width="3240" height="862" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-2" value="Future scenarios workshops&lt;br&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-4" value="NbS city profiles for Nairobi and Dar (interactive map)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-5" value="MEL framework&lt;br&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="1453" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-6" value="Co-design and nature Paper - Re-LEARN (Dasha)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1467.5" y="1513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-7" value="Gender and justice in climate resilience in Dar/Nairobi (Bruna to lead, Tatu, PP, JR, PH, MGR, Theresia, Dasha interested, Regina)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="1824" width="120" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v6tH2ZV_qShP_pb42Ha1-8" target="DnOsjMaOut4OD82y8h3n-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-8" value="NbS project(s) in Dar es Salaam&lt;br&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-9" value="&lt;font style=&quot;&quot;&gt;Community network Event of NbS champions in Dar and Nairobi (who&#39;s in charge? Given?)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-10" value="Scaling up NbS initiatives in East African cities (PP, MGR)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2519.25" y="1460" width="120" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-11" value="Methodological and theoretical learnings of NbS in East&lt;br&gt;Africa (include Working with NbS, gender and youth in Nairobi and Dar es&lt;br&gt;Salaam) (Mathews, Kezia, Reg, MGR interested, Dasha, Bruna, Florence, Prudensiana, Mussa, Tim, Kombe" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="1849" width="120" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-12" value="&lt;b&gt;Outputs&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-19" value="Film -- Youth and nature&lt;br&gt;interactions: tackling climate challenges" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="1579" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-21" value="Co-production - teamwork and tools in LISTEN / Methodology: how to understand NbS in EA? And methodologies re:lexicon (Mathews lead MGR, Bruna, Florence, Dasha)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1630" width="120" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v6tH2ZV_qShP_pb42Ha1-23" target="DnOsjMaOut4OD82y8h3n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v6tH2ZV_qShP_pb42Ha1-23" target="DnOsjMaOut4OD82y8h3n-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-23" value="NbS toolkit" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-24" value="&lt;font style=&quot;&quot;&gt;Flyers/Leaflets in Nairobi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-25" value="NbS project(s) in Nairobi&lt;br&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-26" value="Glossary/ Lexicon: NbS terminology compendium" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-27" value="Typology of NbS - Nairobi (Mathews to lead MGR, PP, Joe, Dasha, Brenda, Wahome, Kezia)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="1526" width="120" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-28" value="Typology of NbS - Dar (Florence to lead. Mussa, Kombe, Tatu, Tim, Prudensiana, Theresia, Dasha, Bruna)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1694.5" width="120" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-29" value="Lexicons of NbS (Jordana)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-30" value="NbS Urban Policy Guidelines for Dar es Salaam (or a&lt;br&gt;municipality)" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2519.25" y="1560" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-31" value="R U NbS community of practice? (Maybe grouped with Community Network Event)" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="2110" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-32" value="NbS Urban Policy Guidelines for Nairobi (or a&lt;br&gt;municipality)" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2519.25" y="1640" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-33" value="People&#39;s guide of MEL framework" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="1537" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-34" value="&lt;font style=&quot;&quot;&gt;Flyers/Leaflets&amp;nbsp;in Dar&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(204, 204, 0);&quot;&gt;Community&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1515" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(0, 153, 0);&quot;&gt;Policy&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1537" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v6tH2ZV_qShP_pb42Ha1-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px; color: rgb(178, 102, 255);&quot;&gt;Academic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1557" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-1" value="Construction Guide" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1626" y="1407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-2" value="NbS Playbook" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1072.5" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-3" value="An online tool to include new initiatives to 3L city profiles" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1508" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--75" value="&lt;div&gt;Development of non&lt;/div&gt;&lt;div&gt;structural intervention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;strokeColor=#808080;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="392.5" width="94" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--57" value="Capacity Development for non Structural intervention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--67" value="Co-Construction Preparation (Plans, materials, technical design, procurement)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1312.5" y="835" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-5" value="NbS toolkit: what is in it for you?" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-7" value="Participatory theatre show + recording" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1357" y="2110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-8" value="NbS toolkit for East Africa (Workshop)" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1518" y="1872" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-10" value="Working with NbS, gender and youth in Nairobi and Dar es Salaam" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1516" y="2028" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-11" value="WUF participation and plenary events" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1839" y="1407" width="120" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-13" value="Assessing NbS co-production initiatives in Nairobi and Dar es Salaam (PP, MGR, Florence)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="1870" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-14" value="Make, Learn, Reflect, Affect (Joe, Mathews)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-15" value="Coping with climate change at the margins: gendered and intersectional experiences of community-led climate action in Dar es Salaam and Nairobi (Pascale lead, Jordana, Joe?, Florence, Bruna, Dasha, Bongiwe?)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="1983" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-16" value="NbS and justice Mural (Mathews)" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-19" value="Can NbS go beyond pilots? (PP, MGR)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2519.25" y="1858" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-20" value="Overarching perspective on NbS approach of the future (Pitch to Nature, 3000 words)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2519.25" y="1929" width="120" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v6tH2ZV_qShP_pb42Ha1-1" target="v6tH2ZV_qShP_pb42Ha1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1585" y="1782" as="sourcePoint" />
+            <mxPoint x="1635" y="1732" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-25" value="AHRA Presentation 1 (Bruna leads Dasha, Florence)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="1669" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-26" value="AHRA Presentation 2 (Dasha leads Bruna)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--40" value="&lt;u&gt;Initial MEL:&lt;/u&gt;&lt;div&gt;Snapshot of the local issues&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6600CC;strokeColor=#808080;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="736" y="1295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--39" value="Stakeholder analysis + mapping" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--38" value="Community Mapping&lt;div&gt;FGDs: Gender needs + Nature needs&lt;/div&gt;&lt;div&gt;Surveys W/community&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="756.5" y="911" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--37" value="&lt;div&gt;Detailed profiling of the site W/TFUP + Youth Groups (ecologist involved)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66CC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="756.5" y="838" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--33" value="Stakeholder Mapping&lt;div&gt;+&lt;/div&gt;&lt;div&gt;&amp;nbsp;Engagement strategy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="825" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--31" value="Select + Award&lt;div&gt;Conversation on principles before signing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-28" value="Socio-ecologies of urban NbS in East Africa Article (who to Lead?)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="907" y="1933" width="120" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-29" value="Comic books for communities (Reg, Bruna, Dasha, and others interested!)" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="2030" width="120" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-30" value="A story book based on the theatre scenarios from Future Scenario Workshops (Dasha, Bruna, Florence)" style="rounded=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="953.5" y="1478" width="120" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="DnOsjMaOut4OD82y8h3n-31" value="Urban Nature Presentation Paris (Dasha and Bruna)" style="rounded=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=0;fontSize=12;fontFamily=Helvetica;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--46" value="Inception Meeting with Site Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="903.5" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EWNHcDQSINfYAr0s_SC--47" value="Plan Co-Design Workshop series" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCC00;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="945" y="614" width="105" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
